@@ -1,0 +1,6 @@
+path: D:\DATA\WildFires\YOLO_seg\data
+train: images/train 
+val: images/val  
+
+nc: 2
+names: ['fire', 'smoke']
