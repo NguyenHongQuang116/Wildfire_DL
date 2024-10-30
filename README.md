@@ -9,4 +9,4 @@ Link to YOLOv8 official website: https://github.com/ultralytics/ultralytics
 https://docs.ultralytics.com/
 
 
-Dataset is about 5GB including train, validation and test (image and masks): provided based on request.
+Dataset is about 5GB including train, validation and test (images and masks): provided based on request.
