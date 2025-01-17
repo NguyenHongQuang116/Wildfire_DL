@@ -1,2 +1,0 @@
-This folder contains Deeplabv3(ResNet50) and DeepLabv3(EfficientNetv2) train and inference for wildfire segmentation.
-Dataset is linked to a dropbox folder.
